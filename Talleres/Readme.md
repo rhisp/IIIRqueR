@@ -10,3 +10,7 @@
 ## Taller de Datos Censurados con Tidymodels
 
 * [Repo](https://github.com/jesusherranz/DatosCensuradosTidymodels)
+
+## Taller de Carto R que R
+[repo]
+
