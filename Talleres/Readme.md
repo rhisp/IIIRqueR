@@ -11,6 +11,6 @@
 
 * [Repo](https://github.com/jesusherranz/DatosCensuradosTidymodels)
 
-## Taller de Carto R que R
-[repo]
+## Introducción a la cartografía con R
+[repo](https://github.com/dominicroye/Taller_Carto_RqueR_2024)
 
