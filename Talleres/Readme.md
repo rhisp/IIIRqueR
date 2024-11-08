@@ -12,5 +12,7 @@
 * [Repo](https://github.com/jesusherranz/DatosCensuradosTidymodels)
 
 ## Introducción a la cartografía con R
-[repo](https://github.com/dominicroye/Taller_Carto_RqueR_2024)
+* [repo](https://github.com/dominicroye/Taller_Carto_RqueR_2024)
 
+## Taller de RShiny
+* [repo](https://github.com/DataMirai/Taller_Shiny_Sevilla)
