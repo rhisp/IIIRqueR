@@ -16,3 +16,10 @@
 
 ## Taller de RShiny
 * [Repo y slides](https://github.com/DataMirai/Taller_Shiny_Sevilla)
+
+
+
+## Taller de Estadística Pública. IECA
+
+* [Fichero html](Ficheros_EstadisticaPublica/Taller_R.html)
+* [Datos]
