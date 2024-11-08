@@ -25,3 +25,7 @@ TODO: Pendiente poner datos en drive de organización en vez fichero zip en el g
 
 * [Fichero html](https://rhisp.github.io/IIIRqueR/Taller_IECA.html)
 * [Archivo zip con toda la info y datos](https://drive.google.com/drive/folders/1cQHuFfHp1bwBULBtgEMc8YJRiX2EzPqq?usp=drive_link)
+
+## R package dependencies in production: risks and management
+
+[R package dependencies in production: risks and management](https://jangorecki.gitlab.io/r-talks/2024-11-07_Sevilla_R-package-dependencies-in-production/R-package-dependencies-in-production.html)
