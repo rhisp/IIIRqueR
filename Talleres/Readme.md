@@ -15,4 +15,4 @@
 * [repo](https://github.com/dominicroye/Taller_Carto_RqueR_2024)
 
 ## Taller de RShiny
-* [repo](https://github.com/DataMirai/Taller_Shiny_Sevilla)
+* [Repo y slides](https://github.com/DataMirai/Taller_Shiny_Sevilla)
