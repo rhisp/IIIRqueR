@@ -29,3 +29,6 @@ TODO: Pendiente poner datos en drive de organización en vez fichero zip en el g
 ## R package dependencies in production: risks and management
 
 [R package dependencies in production: risks and management](https://jangorecki.gitlab.io/r-talks/2024-11-07_Sevilla_R-package-dependencies-in-production/R-package-dependencies-in-production.html)
+
+## Taller de Visualización Análitica para la Exploración de datos
+[Taller Visualización Repo](https://github.com/BioinfoUSAL/VisualAnalyticsWorkshop)
